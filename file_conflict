@@ -5,17 +5,3 @@ b=123456789.....
 c=choose....
 you choose....what you want....right......
 
-=======
-a=1234567890;
-
-System.out.println("This is small java program....");
-System.out.println("This is small java program....");
-System.out.println("This is small java program....");
-System.out.println("This is small java program....");
-System.out.println("This is small java program....");
-System.out.println("This is small java program....");
-System.out.println("This is small java program....");
-System.out.println("This is small java program....");
-System.out.println("This is small java program....");
-System.out.println("This is small java program....");
->>>>>>> branch_2
